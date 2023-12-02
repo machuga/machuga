@@ -1,7 +1,7 @@
 ### Hello!
 
 ### I...
-* Am a Director of Engineering at [Oyster](https://oysterhr.com)
+* Am the Senior Director of Engineering at [Oyster](https://oysterhr.com)
 * Host a small podcast called [Bits and Trees](https://bitsandtrees.com)
 * Organize the annual [Erie Day of Code](https://eriedayofcode.com) conference
 * Was formerly an Engineering Manager at [Auth0/Okta](https://auth0.com)
